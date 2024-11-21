@@ -9,7 +9,7 @@ export default function Home(){
     <img  className="opacity-20 h-full overflow-hidden " src={"/images/background.jpg"} alt="Governor-House" />
     </div>
 
-    <div className=" flex relative  h-[751px] w-full mt-[73px] ">
+    <div className=" flex relative  h-[751px] w-[100%] mt-[73px] ">
 
 {/* Text Div */}
 <div>
@@ -42,7 +42,7 @@ Now admissions are open in Hyderabad
   </button>
 
   <div className="  text-[#014D82] font-semibold w-33 h-17 text-center flex-col tracking-wider">
-    <div className=" flex w-full justify-center text-3xl font-extrabold shadow-2xl shadow-inherit ">562,143</div>
+    <div className=" flex w-[100%] justify-center text-3xl font-extrabold shadow-2xl shadow-inherit ">562,143</div>
     <div className=" flex w-52 justify-center font-normal text-sm shadow-2xl shadow-inherit"> Accepted Applications</div>
   </div>
 
@@ -60,7 +60,7 @@ Now admissions are open in Hyderabad
 
 
  {/* text below pic */}
-  <div className=" w-full h-fit mt-0 ">
+  <div className=" w-[100%] h-fit mt-0 ">
 
     <h1 className="   h-[124px] text-3xl m-8 mt-0 flex items-end justify-center text-center font-bold z-50 text-[#044E83] shadow-2xl shadow-inherit">Certified Cloud Applied Generative AI Engineer (GenEng) and Solopreneur Developing Billion-Dollar Valued Developers and Solopreneurs</h1>
 

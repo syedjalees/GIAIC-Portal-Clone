@@ -1,4 +1,3 @@
-import { FiMenu } from "react-icons/fi"
 import Link from "next/link"
 export default function Navbar() {
   return (

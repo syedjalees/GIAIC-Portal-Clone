@@ -1,7 +1,7 @@
 import Link from "next/link"
 import { AiOutlineMail } from "react-icons/ai"
-import { FaFacebookF, FaInstagram, FaTiktok, FaTwitter, FaYoutube } from "react-icons/fa"
-import { FaX, FaXTwitter } from "react-icons/fa6"
+import { FaFacebookF, FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa"
+import { FaXTwitter } from "react-icons/fa6"
 
 export default function Footer() {
     return (
